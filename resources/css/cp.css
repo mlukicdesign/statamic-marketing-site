@@ -1,0 +1,11 @@
+/* This is all you. */
+
+
+.animate {
+    @apply transition-all duration-300 ease-in-out;
+}
+
+
+.test {
+    @apply bg-red py-12 px-4 rounded;
+}
